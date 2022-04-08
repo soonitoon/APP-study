@@ -21,3 +21,4 @@
 
 0. [repl.it 사용법](/pages/repl.md)
 1. [변수, 타입, 조건문, 함수](/pages/study1.md)
+2. [반복문](/pages/study2.md)
